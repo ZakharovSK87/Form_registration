@@ -1,0 +1,91 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #b3afb8;
+    font-family: Arial, sans-serif;
+    
+
+}
+
+
+
+
+.container {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.page-title {
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: rgb(46, 32, 46);
+
+}
+
+.contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+small {
+    display: block;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #666;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    font-size: 20px;
+    background-color: #021222;
+    color: #c2adad;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #34033d;
+}
+
+.message {
+
+    font-size: 100px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 300px;
+    color: #34033d;
+}
+
